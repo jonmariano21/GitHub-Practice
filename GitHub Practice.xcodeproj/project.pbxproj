@@ -21,6 +21,7 @@
 		7E573F69195381B500FA74BB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E573F4B195381B500FA74BB /* UIKit.framework */; };
 		7E573F71195381B500FA74BB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7E573F6F195381B500FA74BB /* InfoPlist.strings */; };
 		7E573F73195381B500FA74BB /* GitHub_PracticeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E573F72195381B500FA74BB /* GitHub_PracticeTests.m */; };
+		7E573F7E1953867700FA74BB /* JMTester.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E573F7D1953867700FA74BB /* JMTester.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		7E573F6E195381B500FA74BB /* GitHub PracticeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitHub PracticeTests-Info.plist"; sourceTree = "<group>"; };
 		7E573F70195381B500FA74BB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7E573F72195381B500FA74BB /* GitHub_PracticeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitHub_PracticeTests.m; sourceTree = "<group>"; };
+		7E573F7C1953867700FA74BB /* JMTester.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMTester.h; sourceTree = "<group>"; };
+		7E573F7D1953867700FA74BB /* JMTester.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMTester.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				7E573F59195381B500FA74BB /* Main.storyboard */,
 				7E573F5C195381B500FA74BB /* JMViewController.h */,
 				7E573F5D195381B500FA74BB /* JMViewController.m */,
+				7E573F7C1953867700FA74BB /* JMTester.h */,
+				7E573F7D1953867700FA74BB /* JMTester.m */,
 				7E573F5F195381B500FA74BB /* Images.xcassets */,
 				7E573F4E195381B500FA74BB /* Supporting Files */,
 			);
@@ -252,6 +257,7 @@
 				7E573F54195381B500FA74BB /* main.m in Sources */,
 				7E573F5E195381B500FA74BB /* JMViewController.m in Sources */,
 				7E573F58195381B500FA74BB /* JMAppDelegate.m in Sources */,
+				7E573F7E1953867700FA74BB /* JMTester.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
