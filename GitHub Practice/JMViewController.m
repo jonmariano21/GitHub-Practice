@@ -26,8 +26,13 @@
     
     NSLog(@"The End");
     
+<<<<<<< HEAD
     NSLog(@"CORRECT");
 
+=======
+    
+    NSLog(@"WRONG");
+>>>>>>> Tester
 
     
     
