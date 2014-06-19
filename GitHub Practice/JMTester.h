@@ -10,4 +10,6 @@
 
 @interface JMTester : NSObject
 
+-(void)printTester;
+
 @end

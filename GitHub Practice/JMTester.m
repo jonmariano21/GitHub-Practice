@@ -10,4 +10,9 @@
 
 @implementation JMTester
 
+-(void)printTester{
+    NSLog(@"adding to the Tester class");
+}
+
+
 @end
