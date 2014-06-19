@@ -24,6 +24,9 @@
     JMTester *test = [[JMTester alloc] init];
     [test printTester];
     
+    NSLog(@"The End");
+
+    
     
 }
 
