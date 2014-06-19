@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "JMTester.h"
 
 @interface JMViewController : UIViewController
 

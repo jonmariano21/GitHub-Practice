@@ -20,6 +20,11 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"hello");
+    
+    JMTester *test = [[JMTester alloc] init];
+    [test printTester];
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
