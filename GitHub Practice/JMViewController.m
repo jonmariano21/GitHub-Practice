@@ -25,6 +25,9 @@
     [test printTester];
     
     NSLog(@"The End");
+    
+    NSLog(@"CORRECT");
+
 
     
     
